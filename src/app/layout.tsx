@@ -8,9 +8,9 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'MASSIMO Italian Pizza',
+  title: 'Made by Sofe Italian Pizza',
   description:
-    'MASSIMO Italian Pizza is the best italian pizza has ever been seen in the city of Kharkiv. ',
+    'Made by Sofe Italian Pizza is the best italian pizza has ever been seen in the city of Kharkiv. ',
 };
 
 export default function RootLayout({
